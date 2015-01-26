@@ -1,0 +1,13 @@
+{
+  "name": "Flying Dog",
+  "description": "Game Based on HTML5 platform using Panda Engine.. game play is somewhat like Flappy birds",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/icons/512.png",
+    "128": "/icons/128.png"
+  },
+  "developer": {
+    "name": "Aarshad  Devani"
+  },
+  "default_locale": "en"
+}
